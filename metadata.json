@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Links",
+  "description": "Minimalist page with two WhatsApp quick message buttons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
